@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <LangVersion>Latest</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="SixLabors.ImageSharp" Version="1.0.0-beta0004"/>
+    <Reference Include="Broker">
+      <HintPath>C:\Users\SirCo\OneDrive\Code\MandelbrotService\Broker\bin\Debug\netcoreapp2.1\Broker.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
