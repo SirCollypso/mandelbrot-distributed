@@ -1,6 +1,4 @@
 # mandelbrot-distributed
-A Mandelbrot set fractal multicore distributed generator
-# Mandelbrot Distributed
 ## _A Mandelbrot set fractal multicore distributed generator_
 
 Mandelbrot Distributed is a multicore distributed Mandelbrot set fractal generator. Broker connects a distributor, result saver, and workers. This makes it possible to distribute generation and storage of the fractal image. 
