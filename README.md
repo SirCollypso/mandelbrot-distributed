@@ -1,2 +1,2 @@
 # mandelbrot-distributed
-A Mandelbrot set distributed generator
+A Mandelbrot set multicore distributed generator
