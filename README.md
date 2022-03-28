@@ -15,6 +15,7 @@ This project was created by a thirteen-year-old me as a multicore threading and 
 ## Usage
 
 Run [Broker](https://github.com/SirCollypso/mandelbrot-distributed/tree/main/Broker)
+
 *Broker* accepts two arguments:
 ```sh
 ip-address [default = 127.0.0.1]
