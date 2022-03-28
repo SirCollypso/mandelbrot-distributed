@@ -22,12 +22,14 @@ ip-address [default = 127.0.0.1]
 port [default = 13000]
 ```
 Run [ResultStore](https://github.com/SirCollypso/mandelbrot-distributed/blob/main/ResultStore)
+
 *ResultStore* accepts two arguments:
 ```sh
 ip-address [default = 127.0.0.1]
 port [default = 10000]
 ```
 Run [Distributor](https://github.com/SirCollypso/mandelbrot-distributed/blob/main/Distributor)
+
 *Distributor* accepts four arguments:
 ```sh
 broker-ip-address [default = 127.0.0.1]
@@ -36,6 +38,7 @@ jobID [default = 1]
 pixels [default = 500]
 ```
 Run [Worker](https://github.com/SirCollypso/mandelbrot-distributed/tree/main/Worker)
+
 *Worker* accepts four arguments:
 ```sh
 broker-ip-address [default = 127.0.0.1]
